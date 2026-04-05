@@ -21,3 +21,9 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+/.env
+/.env.*
+!/ .env.example
+/storage/*.key
+/storage/logs/*.log
+/database/*.sqlite
